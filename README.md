@@ -29,6 +29,6 @@ buttons
 https://deepaksonii-1.github.io/buttons/
 
 another sites
-https://maishowcase.ultimatefreehost.in
+http://maishowcase.ultimatefreehost.in
 
-https://maishowcase.site11.com
+http://maishowcase.site11.com
