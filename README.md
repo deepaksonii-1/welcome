@@ -23,7 +23,7 @@ artist_theme
 https://deepaksonii-1.github.io/artist-theme/
 
 menus
-https://deepaksonii-1.github.io/menus/
+https://deepaksonii-1.github.io/Menus/
 
 buttons
 https://deepaksonii-1.github.io/buttons/
