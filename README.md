@@ -1,1 +1,29 @@
 # welcome
+Below are the link to my repositories distinctly...
+
+purohit
+https://deepaksonii-1.github.io/purohit/
+
+template
+https://deepaksonii-1.github.io/template/
+
+gps
+https://deepaksonii-1.github.io/gps/
+
+bookmarks
+https://deepaksonii-1.github.io/bookmarks/
+
+ajax_search
+https://deepaksonii-1.github.io/ajaxsearch/
+
+satta
+https://deepaksonii-1.github.io/satta/
+
+artist_theme
+https://deepaksonii-1.github.io/artist-theme/
+
+menus
+https://deepaksonii-1.github.io/menus/
+
+buttons
+https://deepaksonii-1.github.io/buttons/
