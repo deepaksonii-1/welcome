@@ -7,16 +7,16 @@ https://deepaksonii-1.github.io/purohit/
 template
 https://deepaksonii-1.github.io/template/
 
-gps
+gps(php)
 https://deepaksonii-1.github.io/gps/
 
 bookmarks
 https://deepaksonii-1.github.io/bookmarks/
 
-ajax_search
+ajax_search(php)
 https://deepaksonii-1.github.io/ajaxsearch/
 
-satta
+satta(php)
 https://deepaksonii-1.github.io/satta/
 
 artist_theme
