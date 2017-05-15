@@ -19,16 +19,13 @@ https://deepaksonii-1.github.io/ajaxsearch/
 satta(php)
 https://deepaksonii-1.github.io/satta/
 
-artist_theme
-https://deepaksonii-1.github.io/artist-theme/
-
-menus
-https://deepaksonii-1.github.io/Menus/
-
-buttons
-https://deepaksonii-1.github.io/buttons/
-
-another sites
+e-Gallery:  (you can manage categories or create folers to stores images (categorysed))
 http://maishowcase.ultimatefreehost.in
 
-http://maishowcase.site11.com
+self created templates
+http://mytemp.ultimatefreehost.in/
+https://deepaksonii-1.github.io/artist-theme/
+
+menus & buttons
+https://deepaksonii-1.github.io/Menus/
+https://deepaksonii-1.github.io/buttons/
