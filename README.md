@@ -7,14 +7,14 @@ https://deepaksonii-1.github.io/purohit/
 template
 https://deepaksonii-1.github.io/template/
 
-gps(php,mysql)-this site shows newby mechanics as per your gps location.
+gps(php,mysql)-this site shows nearby mechanics as per your gps location.
 http://gps.ultimatefreehost.in
 
 bookmarks(localstorage)-
 https://deepaksonii-1.github.io/bookmarks/
 
 ajax_search(php)
-https://deepaksonii-1.github.io/ajaxsearch/
+http://ajaxsearch.ultimatefreehost.in/
 
 gambling(php): based on random number gambling
 http://gamble.ultimatefreehost.in
