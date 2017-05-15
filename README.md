@@ -7,19 +7,19 @@ https://deepaksonii-1.github.io/purohit/
 template
 https://deepaksonii-1.github.io/template/
 
-gps(php)
-https://deepaksonii-1.github.io/gps/
+gps(php,mysql)-this site shows newby mechanics as per your gps location.
+http://gps.ultimatefreehost.in
 
-bookmarks
+bookmarks(localstorage)-
 https://deepaksonii-1.github.io/bookmarks/
 
 ajax_search(php)
 https://deepaksonii-1.github.io/ajaxsearch/
 
-satta(php)
-https://deepaksonii-1.github.io/satta/
+gambling(php): based on random number gambling
+http://gamble.ultimatefreehost.in
 
-e-Gallery:  (you can manage categories or create folers to stores images (categorysed))
+e-Gallery:  (in this site you can store images category wise)
 http://maishowcase.ultimatefreehost.in
 
 self created templates
