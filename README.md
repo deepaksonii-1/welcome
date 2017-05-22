@@ -1,11 +1,16 @@
 # welcome
-Below are the link to my repositories distinctly...
+Below are the links to my online projects repository...
 
-purohit
+FRONT END TEMPLATE SITES:<br>
+Purohit:<br>
 https://deepaksonii-1.github.io/purohit/
 
-template
+Another Template
 https://deepaksonii-1.github.io/template/
+
+self created templates
+http://mytemp.ultimatefreehost.in/
+https://deepaksonii-1.github.io/artist-theme/
 
 gps(php,mysql)-this site shows nearby mechanics as per your gps location.
 http://gps.ultimatefreehost.in
@@ -22,9 +27,7 @@ http://gamble.ultimatefreehost.in
 e-Gallery:  (in this site you can store images category wise)
 http://maishowcase.ultimatefreehost.in
 
-self created templates
-http://mytemp.ultimatefreehost.in/
-https://deepaksonii-1.github.io/artist-theme/
+
 
 menus & buttons
 https://deepaksonii-1.github.io/Menus/
