@@ -9,11 +9,11 @@ Another Template<br>
 https://deepaksonii-1.github.io/template/
 
 self created templates<br>
-http://mytemp.ultimatefreehost.in/
+http://mytemp.ultimatefreehost.in/<br>
 https://deepaksonii-1.github.io/artist-theme/
 
 Menus & Buttons:<br>
-https://deepaksonii-1.github.io/Menus/
+https://deepaksonii-1.github.io/Menus/<br>
 https://deepaksonii-1.github.io/buttons/
 
 Back End Projects:<br>
